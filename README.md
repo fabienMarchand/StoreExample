@@ -1,11 +1,18 @@
 # StoreExample
 
-Simple store crud on product
+Simple store with crud on product
 
-Authent on mongodb
+with Authent & authorization, mailing and payments
+
+### Stack:
+ * node + express (back)
+ * mongodb + mongoose (db)
+ * bcrypt (pass secure)
+ * ejs (front)
+ * sendgrid (mail)
+ * express-validator (input validation)
 
 ## Next feature 
 
-Add mailing
-Add payement
-...
+* Add error handling
+* Add payement
